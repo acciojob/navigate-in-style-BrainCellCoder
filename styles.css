@@ -4,13 +4,14 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.navbar {
-  background-color: #D3D3D3;
+.container {
+  background-color: rgb(211, 211, 211);
   padding: 10px;
 }
 
 .nav-list {
   list-style: none;
+	display: flex;
   padding: 0;
   margin: 0;
 }
